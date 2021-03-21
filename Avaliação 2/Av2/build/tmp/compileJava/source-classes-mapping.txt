@@ -1,0 +1,30 @@
+org/example/project/exceptions/ConstraintViolationException.java
+ org.example.project.exceptions.ConstraintViolationException
+org/example/project/App.java
+ org.example.project.App
+org/example/project/api/participacao/Participacao.java
+ org.example.project.api.participacao.Participacao
+org/example/project/api/participacao/ParticipacaoRequest.java
+ org.example.project.api.participacao.ParticipacaoRequest
+org/example/project/exceptions/BadRequestExceptionMapper.java
+ org.example.project.exceptions.BadRequestExceptionMapper
+org/example/project/api/participacao/ParticipacaoResource.java
+ org.example.project.api.participacao.ParticipacaoResource
+org/example/project/api/participacao/PartipacaoResponse.java
+ org.example.project.api.participacao.PartipacaoResponse
+org/example/project/TesteResource.java
+ org.example.project.TesteResource
+org/example/project/api/participacao/ParticipacaoRepository.java
+ org.example.project.api.participacao.ParticipacaoRepository
+org/example/project/api/package-info.java
+ org.example.project.api.package-info
+org/example/project/api/projetos/ProjetoRequest.java
+ org.example.project.api.projetos.ProjetoRequest
+org/example/project/api/projetos/ProjetoRepository.java
+ org.example.project.api.projetos.ProjetoRepository
+org/example/project/api/projetos/ProjetoResponse.java
+ org.example.project.api.projetos.ProjetoResponse
+org/example/project/api/projetos/ProjetoResource.java
+ org.example.project.api.projetos.ProjetoResource
+org/example/project/api/projetos/Projeto.java
+ org.example.project.api.projetos.Projeto
